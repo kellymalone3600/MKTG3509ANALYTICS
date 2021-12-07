@@ -2,8 +2,8 @@
 This is a portfolio of all the data assignments completed through the fall 2021 semester in Consumer Data Analytics. There were 11 modules throughout the course and each built upon the previous module. I completed one homework assigment for each module. 
 ## My Resume
 [Resume](https://colab.research.google.com/drive/1vuVCaYlz9I5JEMZykasyMGWEIrR5SWuI)
-Email: [kelly.malone3600@gmail.com](mailto:kelly.malone3600@gmail.com)
-[Kelly Malone LinkedIn](linkedin.com/in/kelly-malone3600)
+/Email: [kelly.malone3600@gmail.com](mailto:kelly.malone3600@gmail.com)
+/[Kelly Malone LinkedIn](linkedin.com/in/kelly-malone3600)
 
 ## Table of Contents
 ### Module 1 - Using Colab
