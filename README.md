@@ -27,4 +27,4 @@ Email: [kelly.malone3600@gmail.com](mailto:kelly.malone3600@gmail.com)
 ### Module 10 - Text Analysis
 [**A10** Vegas Resorts Text Mining](https://colab.research.google.com/drive/1w9LHYdNvRQB8_zJOoYTrvrlYrJY9qD40)
 ### Module 11 - Using GitHub to Create Portfolio
-[**A11** Use GitHub to Create Assignemnt Portfolio]
+[**A11** Use GitHub to Create Assignemnt Portfolio](https://github.com/kellymalone3600/MKTG3509ANALYTICS/blob/main/README.md)
